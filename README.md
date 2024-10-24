@@ -3,7 +3,7 @@
 
 Este projeto é uma aplicação em **Streamlit** que exibe dados simulados sobre o índice de criminalidade em diferentes bairros da cidade de **Lubango**. A interface interativa permite que os usuários explorem a evolução da criminalidade ao longo dos anos e visualizem gráficos como mapas de calor e gráficos coropléticos.
 
-![Captura de Tela](captura.png)
+![Captura de Tela](captura.PNG)
 
 ## Funcionalidades
 - **Mapa de Calor**: Exibe a evolução do índice de criminalidade ao longo do tempo.
